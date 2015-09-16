@@ -1,1 +1,3 @@
 goodbye friend i am gone
+if text file == not made by me
+  return Getoutttt
